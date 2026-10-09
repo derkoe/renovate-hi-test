@@ -1,3 +1,3 @@
-FROM registry.access.redhat.com/hi/openjdk:25@sha256:f02dd3d38e16c7b3399302dfd678881cb5ec64dc4215bc22661fd5de578b1ac1
+FROM registry.access.redhat.com/hi/openjdk:25@sha256:62076be4687af8841bf97b03dbb9eefdc6531a34a9b7bb3b7e32530e80be35a6
 
 CMD ["java", "-version"]
